@@ -14,26 +14,26 @@ This repository keeps track of my leetcode coding questions as well as my DSA pr
 
 - <h2>🚩 Basic</h2>
 
-  - [<h3> Admission Prediction Using Linear Regression </h3>]
-  - [<h3> Covid19state-main </h3>]
-  - [<h3> Diabetes Prediction </h3>]
-  - [<h3> EDA on Netflix Data </h3>]
-  - [<h3> Exploratory Data Analysis(Retail) </h3>]
-  - [<h3> Face Mask Detector </h3>]
-  - [<h3> Heart Disease Prediction </h3>]
-  - [<h3> KNN Algorithm </h3>]
-  - [<h3> Linear Regression from scratch </h3>]
-  - [<h3> Medical Data Visualizer </h3>]
-  - [<h3> Medical Insurance Prediction </h3>]
-  - [<h3> Movie Recommendation System </h3>]
-  - [<h3> Page View Time Series Visualizer </h3>]
-  - [<h3> Prediction using Supervised ML </h3>]
-  - [<h3> Prediction using Unsupervised ML </h3>]
-  - [<h3> Sea Level Predictor </h3>]
-  - [<h3> Single Neural Network </h3>]
-  - [<h3> Uber Analysis </h3>]
-  - [<h3> Walmart Analysis </h3>]
-  - [<h3> Wine Quality Prediction </h3>]
-  - [<h3> Word-Cloud </h3>]
+  - <h3> Admission Prediction Using Linear Regression </h3>
+  - <h3> Covid19state-main </h3>
+  - <h3> Diabetes Prediction </h3>
+  - <h3> EDA on Netflix Data </h3>
+  - <h3> Exploratory Data Analysis(Retail) </h3>
+  - <h3> Face Mask Detector </h3>
+  - <h3> Heart Disease Prediction </h3>
+  - <h3> KNN Algorithm </h3>
+  - <h3> Linear Regression from scratch </h3>
+  - <h3> Medical Data Visualizer </h3>
+  - <h3> Medical Insurance Prediction </h3>
+  - <h3> Movie Recommendation System </h3>
+  - <h3> Page View Time Series Visualizer </h3>
+  - <h3> Prediction using Supervised ML </h3>
+  - <h3> Prediction using Unsupervised ML </h3>
+  - <h3> Sea Level Predictor </h3>
+  - <h3> Single Neural Network </h3>
+  - <h3> Uber Analysis </h3>
+  - <h3> Walmart Analysis </h3>
+  - <h3> Wine Quality Prediction </h3>
+  - <h3> Word-Cloud </h3>
 
 <h3 align="center"> Show ❤️ by Starring this Repo</p> </h3>
